@@ -1,0 +1,51 @@
+---
+title: "Proposal"
+author: "J. Hernández"
+date: "7/31/2020"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Basic Physics for Honey Bee Research
+
+## Overview
+
+How can my project fit or complement my lab group research?
+
+## Establish a framework
+
+
+### Research question
+
+How can we apply basic physics to study behaviors and process in honey bee world?
+
+## Objective
+
+Carry out three experimental research to get up mechanical, electric, and thermodynamic information to analyze behaviors and process in honey bee. 
+
+
+* I need to give a reason for asking that question* I will take solid approaches, e.g. conceptual, theoretical, empirical and normative.
+
+* It is necessary to give a rationale significance of my research. 
+
+* discuss the texts which I believe are most important to my project, this way shows my understanding about the research issues and identify existing gaps, e.g. theoretical and practical. 
+
+* research design and methodology, this section should lay out (clear terms) the way in which I will structure my research and specific methods I will use.
+
+* discussion of the overall approach, is my work theoretical or empirical? 
+*specific aims and objectives 
+
+* A brief discussion of the timeline for achieving this
+A well developed methodology section is crucial, particularly if you intend to conduct significant empirical research. Be sure to include specific techniques, not just your general approach. 
+
+This should include: kinds of resources consulted; methods for collecting and analyzing data; specific techniques (ie statistical analysis; semi-structured 
+
+* References
+
+Your references should provide the reader with a good sense of your grasp on the literature and how you can contribute to it. Be sure to reference texts and resources that you think will play a large role in your analysis. Remember that this is not simply a bibliography listing ‘everything written on the subject’. Rather, *it should show critical reflection in the selection of appropriate texts*
